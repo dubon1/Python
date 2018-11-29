@@ -1,0 +1,34 @@
+MATLAB® Report Generator|Concurrent|1|5400
+Powertrain Blockset|Concurrent|1|8888
+Simscape|Concurrent|1|2150
+Simscape™ Electronics™|Concurrent|1|8600
+Simscape™ Power Systems™|Concurrent|1|12000
+Simulink® Real-Time™|Concurrent|1|13000
+Simulink® Report Generator™|Concurrent|1|13000
+Simulink® Test™|Concurrent|1|13000
+Embedded Coder®|Concurrent|2|22000
+MATLAB® Coder™|Concurrent|2|26000
+Simulink® Coder™|Concurrent|2|13000
+Stateflow®|Concurrent|2|12000
+Vehicle Network Toolbox™|Concurrent|2|5400
+MATLAB®|Concurrent|3|8600
+Simulink®|Concurrent|3|13000
+Control System Toolbox™|Individual|1|1000
+Global Optimization Toolbox|Individual|1|1000
+MATLAB® Report Generator™|Individual|1|1350
+Powertrain Blockset™|Individual|1|3250
+Simulink® Control Design™|Individual|1|2150
+Simulink® Report Generator™|Individual|1|3250
+MATLAB®|Individual|17|2150
+Simulink®|Individual|17|3250
+Curve Fitting Toolbox™|Individual|2|1000
+Optimization Toolbox™|Individual|2|1250
+Automated Driving System Toolbox™|Individual|4|2222
+Computer Vision System Toolbox™|Individual|4|1350
+Image Processing Toolbox™|Individual|4|1000
+Robotics System Toolbox™|Individual|4|2150
+Embedded Coder®|Individual|5|5500
+MATLAB® Coder™|Individual|5|6500
+Simulink® Coder™|Individual|5|3250
+Stateflow®|Individual|5|3000
+Vehicle Network Toolbox™|Individual|5|1350

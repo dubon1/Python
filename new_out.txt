@@ -1,0 +1,3 @@
+this Automate the development and test automation processes through CI/CD 
+pipeline (Git, Jenkins, SonarQube, Artifactory, Docker containers)
+I like this test automation

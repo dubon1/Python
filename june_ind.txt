@@ -1,0 +1,88 @@
+Control System Toolbox™|Jun Hou|Jun 30, 2018|1000
+
+Embedded Coder®|Jun Hou|Jun 30, 2018|5500
+
+MATLAB®|Jun Hou|Jun 30, 2018|1350
+
+MATLAB® Coder™|Jun Hou|Jun 30, 2018|6500
+
+Simulink®|Jun Hou|Jun 30, 2018|2150
+
+Simulink® Coder™|Jun Hou|Jun 30, 2018|3250
+
+Simulink® Control Design™|Jun Hou|Jun 30, 2018|2150
+
+Stateflow®|Jun Hou|Jun 30, 2018|3000
+
+Vehicle Network Toolbox™|Jun Hou|Jun 30, 2018|1350
+
+MATLAB®|Saeed  Rahimian|Jun 30, 2018|1350
+
+Simulink®|Saeed  Rahimian|Jun 30, 2018|2150
+
+MATLAB®|Jennifer Pollock|Jun 30, 2018|1350
+
+Simulink®|Jennifer Pollock|Jun 30, 2018|2150
+
+Embedded Coder®|Min Tian|Jun 30, 2018|5500
+
+MATLAB®|Min Tian|Jun 30, 2018|1350
+
+MATLAB® Coder™|Min Tian|Jun 30, 2018|6500
+
+MATLAB® Report Generator™|Min Tian|Jun 30, 2018|1350
+
+Powertrain Blockset™|Min Tian|Jun 30, 2018|3250
+
+Simulink®|Min Tian|Jun 30, 2018|2150
+
+Simulink® Coder™|Min Tian|Jun 30, 2018|3250
+
+Simulink® Report Generator™|Min Tian|Jun 30, 2018|3250
+
+Stateflow®|Min Tian|Jun 30, 2018|3000
+
+Vehicle Network Toolbox™|Min Tian|Jun 30, 2018|1350
+
+Embedded Coder®|Yinghan Xu|Jun 30, 2018|5500
+
+MATLAB®|Yinghan Xu|Jun 30, 2018|1350
+
+MATLAB® Coder™|Yinghan Xu|Jun 30, 2018|6500
+
+Simulink®|Yinghan Xu|Jun 30, 2018|2150
+
+Simulink® Coder™|Yinghan Xu|Jun 30, 2018|3250
+
+Stateflow®|Yinghan Xu|Jun 30, 2018|3000
+
+Vehicle Network Toolbox™|Yinghan Xu|Jun 30, 2018|1350
+
+Embedded Coder®|Ruonan Zhou|Jun 30, 2018|5500
+
+MATLAB®|Ruonan Zhou|Jun 30, 2018|1350
+
+MATLAB® Coder™|Ruonan Zhou|Jun 30, 2018|6500
+
+Simulink®|Ruonan Zhou|Jun 30, 2018|2150
+
+Simulink® Coder™|Ruonan Zhou|Jun 30, 2018|3250
+
+Stateflow®|Ruonan Zhou|Jun 30, 2018|3000
+
+Vehicle Network Toolbox™|Ruonan Zhou|Jun 30, 2018|1350
+
+Embedded Coder®|Shawn Yuan|Jun 30, 2018|5500
+
+MATLAB®|Shawn Yuan|Jun 30, 2018|1350
+
+MATLAB® Coder™|Shawn Yuan|Jun 30, 2018|6500
+
+Simulink®|Shawn Yuan|Jun 30, 2018|2150
+
+Simulink® Coder™|Shawn Yuan|Jun 30, 2018|3250
+
+Stateflow®|Shawn Yuan|Jun 30, 2018|3000
+
+Vehicle Network Toolbox™|Shawn Yuan|Jun 30, 2018|1350
+

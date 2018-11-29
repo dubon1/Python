@@ -1,0 +1,386 @@
+tyler|sheffield|intelligent driving|avery|jutkowitz
+steven|white|intelligent driving|avery|jutkowitz
+olga|curiel|hq - human resources|tom|zhang
+lewis|bohannon|evap - facility & maintenance|andrew|laytart
+zefeng|yang|ept - drivetrain|james|ma
+troy|murphy|evap - facility & maintenance|andrew|laytart
+donnie|hill|evap - facility & maintenance|andrew|laytart
+joseph|clark|evap - facility & maintenance|rick|evans
+amol|sonaje|ve - interior engineering|rich|hager
+lawrence|nguyen|ept - drivetrain|jeffrey|leung
+jeremy|elsberry|usa - battery technology|ying|liu
+saeed|khaleghi rahimian|usa - battery technology|ying|liu
+yifan|tang|hq - corporate executive leadership ( r&d center )|john|zhang
+benjamin|tarloff|ve - vehicle integration|yaping|zhu
+neal|wyman|evap - general assembly|chuck|morris
+xiaodong|jiang|intelligent driving|oliver|su
+heng|kang|ept - battery system|nathalie|capati
+nicholas|bowker|evap - facility & maintenance|jim|brumbaugh
+suresh|kumar|ept - power electronics|zhong|nie
+gerald i|bartley jr.|evap - facility & maintenance|rick|evans
+toby|goetz|evap - general assembly|jose|ochoa
+henri|kavaja|ve - design|alikhan|kuljanov
+stephanie|deming|evap - logistics|matt|turner
+andrew|duvall|evap - facility & maintenance|rick|evans
+leah|nakashima|ve - vehicle integration|jinho|jung
+xiaoran|yao|ve - design|alikhan|kuljanov
+adriano|raeli|ve - design|alikhan|kuljanov
+daniel|collins|ve - vehicle integration|yaping|zhu
+wenke|zhang|usa - battery technology|brennan|campbell
+zhe|huang|ept - power electronics|zhong|nie
+yiqian|li|intelligent driving|fan|wang
+scott|konkey|evap - facility & maintenance|rick|evans
+leonard|schaefer|evap - facility & maintenance|rick|evans
+denise|thomas|evap - facility & maintenance|andrew|laytart
+saurabh|singh|intelligent driving|fan|wang
+federico|torres|evap - general assembly|jose|ochoa
+shea|nyquist|ept - drivetrain|andy|cook
+daniel|swanbeck|ept - drivetrain|andy|cook
+bruno|gallardo|ve - design|alikhan|kuljanov
+carlos|campos|evap - general assembly|chuck|morris
+yuensen|wang|hq - it|shen|chen
+fujuan|wang|chongqing office operations - china|john|zhang
+mingjun|xia|chongqing office operations - china|martina|wang
+shangping|jiang|chongqing office operations - china|martina|wang
+yuna|chen|chongqing office operations - china|martina|wang
+nathalie|capati|ept - battery system|duanyang|wang
+chen-yen|yu|ept - architecture & control|duanyang|wang
+teng|wu|ept - architecture & control|chen-yen|yu
+zhensheng|yuan|ept - architecture & control|chen-yen|yu
+min|tian|ept - architecture & control|chen-yen|yu
+kangwei|mao|ept - power electronics|zhong|nie
+anirban|niyogi|ept - battery system|nathalie|capati
+kuang-chih|lai|hq - supply chain|amy|gong
+kevin|jackson|evap - paint|greg|voss
+robert|lucas|evap - facility & maintenance|andrew|laytart
+zhong|nie|ept - power electronics|duanyang|wang
+david|bogda|evap - general assembly|chuck|morris
+hua|ye|ept - drivetrain|james|ma
+dustin|rose|ept - drivetrain|james|ma
+ying|liu|usa - battery technology|yifan|tang
+rabeel|elahi|ept - architecture & control|shawn|yuan
+ken|ogata|japan - battery technology|ying|liu
+anh|nguyen|ept - drivetrain|jeffrey|leung
+lin|xu|hq - corporate executive leadership ( operations center )|john|zhang
+jie qiu|ma|hq - finance|yaojia|lin
+lei|gu|ept - drivetrain|james|ma
+mark|holderman|evap - facility & maintenance|rick|evans
+jason|lilly|evap - paint|greg|voss
+kevin|smith|evap - paint|greg|voss
+sean|russell|ms - branding & pr|jason|wallace
+chen|bao|intelligent driving|ziqi|zhu
+wu|dun|intelligent driving|ziqi|zhu
+jose|ochoa|evap - general assembly|todd|leahy
+michael|campeau|evap - quality engineering|rob|gutierrez
+bhavik|doshi|intelligent driving|jaime|camhi
+xiaobo|li|hq - it|xindong|hu
+kenneth|zmudzinski|evap - ehs|todd|leahy
+yumeng|pierson|hq - office operations|joy|ge
+leo|li|hq - human resources|chuck|russo
+rocco|sacco|evap - facility & maintenance|rick|evans
+duanyang|wang|hq - corporate executive leadership ( r&d center )|yifan|tang
+yawei|zhang|intelligent driving|oliver|su
+rongfei|fan|hq - legal affairs|sheri|tang
+jonathan|woods|hq - supply chain|amy|gong
+rebecca|campbell|evap - plant operations|todd|leahy
+rick|evans|evap - facility & maintenance|jim|brumbaugh
+joshua|hoffman|intelligent driving|shugang|jiang
+hingloi|leung|ept - drivetrain|duanyang|wang
+li|wei|ept - power electronics|zhong|nie
+jason|jung|ve - vehicle integration|xindong|hu
+vibha|manvi|ve - vehicle integration|jinho|jung
+daniel|bowker|evap - body & battery|bryan|tam
+kyle|greenhaw|ept - drivetrain|andy|cook
+olivia|boross|hq - human resources|tom|zhang
+lin|liang|ms - branding & pr|jason|wallace
+nash|livingston|ept - battery system|nathalie|capati
+stephen|walter|hq - pmo ( operations center )|duanyang|wang
+anh|phung|ept - power electronics|zhong|nie
+doanh|nguyen|ept - power electronics|zhong|nie
+faithann|caspellan|hq - office operations|joy|ge
+xindong|hu|hq - corporate executive leadership ( operations center )|john|zhang
+nischitha|mallikarjuna|intelligent driving|jaime|camhi
+patel|reddy|ept - drivetrain|james|ma
+timothy|watson|ept - battery system|nathalie|capati
+elaine|lam|hq - finance|yaojia|lin
+gilbert|gamboa|intelligent driving|ziqi|zhu
+arthur|ellis|ept - drivetrain|duanyang|wang
+julie ann|santiano|ms - branding & pr|jason|wallace
+vijay|palanikumar|ve - body engineering|david|cripps
+yalan|tan|hq - human resources|tom|zhang
+yaping|zhu|ve - vehicle integration|jinho|jung
+rui|yu|intelligent driving|fan|wang
+sangwoo|han|usa - battery technology|saeed|khaleghi
+yinghan|xu|ept - architecture & control|chen-yen|yu
+chris|louie|hq - supply chain|amy|gong
+guy|braden|evap - facility & maintenance|rick|evans
+ziqi|zhu|intelligent driving|yifan|tang
+danny|trinh|hq - office operations|xindong|hu
+david|saygers|evap - facility & maintenance|andrew|laytart
+vittoria|giannetto|evap - logistics|matt|turner
+justin|wang|ept - drivetrain|jeffrey|leung
+john paul|trujillo|ept - battery system|nathalie|capati
+william|trumbull|ept - drivetrain|duanyang|wang
+panqi|chu|evap - plant operations|jose|ochoa
+che|silkiss-hero|ept - drivetrain|james|ma
+kelly|aldapa|hq - supply chain|amy|gong
+ao-jan|su|intelligent driving|yifan|tang
+gabriel|miranda|hq - pmo ( ept )|duanyang|wang
+rian|payne|hq - human resources|tom|zhang
+jacob|heth|ept - battery system|nathalie|capati
+jeffry|bai|hq - legal affairs|sheri|tang
+boangoat|jarupan|intelligent driving|oliver|su
+jimmy|do|hq - office operations|danny|trinh
+pradeep|sundararaman|ve - vehicle integration|yaping|zhu
+seung wan|kim|usa - battery technology|ying|liu
+simon|poon|hq - supply chain|amy|gong
+michael|swingendorf|evap - facility & maintenance|rick|evans
+william|park|ms - branding & pr|jason|wallace
+george|wu|ept - architecture & control|chen-yen|yu
+jason|wallace|ms - branding & pr|zak|edson
+robert|turk|evap - logistics|matt|turner
+michael|churchill|ve - design|alikhan|kuljanov
+marco|flores|hq - office operations|danny|trinh
+juichi|arai|japan - battery technology|ying|liu
+tom|szynalski|evap - general assembly|jose|ochoa
+tung-yan|wu|ept - architecture & control|chung-ling|lee
+jingxian|zhao|ept - battery system|nathalie|capati
+zachary|edson|hq - corporate executive leadership ( operations center )|john|zhang
+hueijia|huang|japan - battery technology|ying|liu
+gang|yang|usa - battery technology|ying|liu
+xiongfei|zhang|hq - marketing & sales|zak|edson
+sangjoon|han|ve - vehicle integration|yaping|zhu
+abhra|chatterjee|ept - drivetrain|james|ma
+chengyu|mao|usa - battery technology|ying|liu
+hieu|dang|intelligent driving|avery|jutkowitz
+david|nicasio-solis|ms - branding & pr|jason|wallace
+ruoyu|zhang|ept - power electronics|zhong|nie
+hanbo|wang|ept - power electronics|zhong|nie
+peicong|liu|intelligent driving|ziqi|zhu
+bryan|fife|evap - quality engineering|rob|gutierrez
+andrew|laytart|evap - facility & maintenance|jim|brumbaugh
+robert|gutierrez|evap - quality engineering|todd|leahy
+hajime|hoshi|japan - battery technology|ying|liu
+apoorva|athavale|ept - drivetrain|james|ma
+scott|monismith|usa - battery technology|ying|liu
+jason|tran|ept - architecture & control|chen-yen|yu
+bin bin|chi|ept - battery system|nathalie|capati
+kailiang|chen|intelligent driving|fan|wang
+hua ming|tang|hq - legal affairs|xindong|hu
+u yong|choi|ve - design|alikhan|kuljanov
+araceli|garza|hq - office operations|joy|ge
+michele|de demo|ve - design|alikhan|kuljanov
+laura|stone|evap - logistics|rob|turk
+mehdi|forouzan|usa - battery technology|saeed|khaleghi
+qi|zhang|hq - corporate executive leadership ( operations center )|xindong|hu
+david|fontana|ve - vehicle integration|jinho|jung
+todd|leahy|evap - body & battery|james|finn
+ziyu|li|hq - pmo ( operations center )|james|finn
+chen|liang|hq - it|evan|tian
+philip|barron|evap - facility & maintenance|rick|evans
+phu|nguyen|ept - battery system|mike|letchworth
+yang|sun|ve - design|alikhan|kuljanov
+thomas|ryska|evap - quality engineering|rob|gutierrez
+scott a|rivers|evap - facility & maintenance|rick|evans
+cecilia|coleman|evap - facility & maintenance|andrew|laytart
+brendan|jurgenson|evap - general assembly|chuck|morris
+todd|treder|evap - facility & maintenance|rick|evans
+jacob|swiss|hq - legal affairs|sheri|tang
+xin|zhao|sokon group - strategy|yong|yang
+charles|russo|hq - human resources|tom|zhang
+richard|baron|ve - interior engineering|david|cripps
+brennan|campbell|usa - battery technology|ying|liu
+alikhan|kuljanov|ve - design|xindong|hu
+jo ann|sison|intelligent driving|jaime|camhi
+kathleen|jones|evap - hr|todd|leahy
+chuan|shi|ept - power electronics|zhong|nie
+jennifer|pollock|ept - power electronics|zhong|nie
+amy|kellerman|evap - it|karim|stani
+zhengping|zhang|hq - corporate executive leadership ( operations center )|self|boss
+liu|he|intelligent driving|ziqi|zhu
+jaime|camhi|intelligent driving|yifan|tang
+yang|yang|japan - battery technology|ying|liu
+jiaxian|wang|ept - battery system|nathalie|capati
+david|hsieh|hq - marketing & sales|zak|edson
+karim|abotchi|evap - it|shen|chen
+ruonan|zhou|ept - architecture & control|chen-yen|yu
+blake|harrington|ept - battery system|nathalie|capati
+eric|castleman|evap - quality engineering|rob|gutierrez
+ganapathy ramprasath|ramachandran|hq - pmo ( ve )|duanyang|wang
+yunan|song|ept - power electronics|zhong|nie
+felicia|lam|hq - finance|yaojia|lin
+erik|grossman|hq - office operations|john|zhang
+douglas|chidester|ept - architecture & control|chen-yen|yu
+junzhe|shi|usa - battery technology|saeed|khaleghi
+bingbing|jiang|hq - pmo ( operations center )|ever|li
+trevor|wilcox|ept - battery system|mike|letchworth
+kai|yang|intelligent driving|jaime|camhi
+shanshan|sun|hq - supply chain|amy|gong
+avery|jutkowitz|intelligent driving|yifan|tang
+shugang|jiang|ve - electronics & electrical engineering|xindong|hu
+chung-ling|lee|ept - architecture & control|chen-yen|yu
+paige|korner|hq - office operations|joy|ge
+yueyue|ge|hq - office operations|xindong|hu
+dien|lam|hq - it|shen|chen
+todd|howdeshell|evap - facility & maintenance|rick|evans
+darren|vohs|evap - facility & maintenance|neil|orians
+xingwen|tian|hq - it|xiaobo|li
+david|tullis|evap - facility & maintenance|rick|evans
+rodney|cochran|evap - facility & maintenance|rick|evans
+frank|fanin jr.|evap - facility & maintenance|andrew|laytart
+wayne|holderman|evap - facility & maintenance|rick|evans
+frederick|van klaveren|evap - logistics|matt|turner
+tae won|park|ve - vehicle integration|yaping|zhu
+minghao|dai|ept - architecture & control|chen-yen|yu
+michael|letchworth|ept - battery system|nathalie|capati
+christopher|purser|ve - vehicle integration|david|cripps
+christopher|chan|intelligent driving|avery|jutkowitz
+yang|gao|ept - battery system|nathalie|capati
+julie|griffin|evap - hr|kate|jones
+zi yao|ding|ept - drivetrain|james|ma
+fan|wang|intelligent driving|yifan|tang
+gearld|pond|evap - facility & maintenance|rick|evans
+bennie|esters|ve - design|eric|obers
+nicholas|soh|hq - supply chain|susan|sun
+hien|truong|ept - power electronics|zhong|nie
+patrick|graf|evap - body & battery|dean|bowker
+richard|hager|ve - interior engineering|xindong|hu
+chien-po|huang|usa - battery technology|ying|liu
+michael|salamone|evap - facility & maintenance|jim|brumbaugh
+radu|dimian|evap - quality engineering|rob|gutierrez
+jhenghao|chen|intelligent driving|fan|wang
+qi|ruan|ept - drivetrain|jeffrey|leung
+henricus johannes maria|obers|ve - design|alikhan|kuljanov
+leo|wetli|evap - facility & maintenance|jim|brumbaugh
+amina|dines|ve - vehicle integration|denise|orr
+lay fong|wong|hq - finance|yaojia|lin
+lamar|ashford|evap - paint|greg|voss
+neil|orians|evap - quality engineering|rob|gutierrez
+weimin|zhang|ept - power electronics|zhong|nie
+vijay|kalidindi|ve - vehicle integration|david|groebl
+jayant|kulkarni|intelligent driving|oliver|su
+steve|davis|evap - body & battery|bryan|tam
+ke|huang|intelligent driving|fan|wang
+chia-hsun|hsieh|ept - drivetrain|james|ma
+john|billisitz|evap - facility & maintenance|rick|evans
+charles|morris|evap - general assembly|jose|ochoa
+shen|chen|hq - it|xiaobo|li
+manuel|castro|evap - facility & maintenance|jim|brumbaugh
+xiaoxi|sun|ept - architecture & control|chen-yen|yu
+yu|zhang|hq - finance|xindong|hu
+lorilyn|dill|evap - quality engineering|rob|gutierrez
+wayne|mckenzie|ve - vehicle integration|denise|orr
+majid|sabetzadeh|ept - drivetrain|andy|cook
+longxiangyu|chen|hq - pmo ( operations center )|ever|li
+henry|nguyen|ept - drivetrain|jeffrey|leung
+sarah|may|evap - general assembly|jose|ochoa
+evan|basirat|ept - battery system|mike|letchworth
+thanh|duong|ept - drivetrain|jeffrey|leung
+craig|timms|ept - power electronics|zhong|nie
+emily|roux|hq - human resources|tom|zhang
+brian|harrell|evap - facility & maintenance|rick|evans
+sudhir|sawarkar|ept - architecture & control|chen-yen|yu
+justin|barozie|ept - manufacturing engineering|duanyang|wang
+ying|wang|ept - architecture & control|chen-yen|yu
+masatsugu|nakano|japan - battery technology|ying|liu
+rafael|favela|ve - vehicle integration|denise|orr
+michael|aittama|ve - interior engineering|rich|hager
+wenting|ma|hq - supply chain|amy|gong
+parag|patil|ve - interior engineering|rich|hager
+zijun|cheng|ept - drivetrain|jeffrey|leung
+yao jia|lin|hq - finance|jacqueline|zhang
+hakuei|huang|intelligent driving|jaime|camhi
+joseph|tolentino|usa - battery technology|brennan|campbell
+rui|guo|intelligent driving|fan|wang
+david|teeters|evap - plant operations|todd|leahy
+greg|voss|evap - paint|todd|leahy
+aditya|somayaji|ept - drivetrain|jeffrey|leung
+nathan|chung|ept - power electronics|zhong|nie
+thomas|fritz|hq - corporate executive leadership ( ve )|xindong|hu
+matthew|harkless|ve - chassis engineering|david|cripps
+haiyan|gong|hq - supply chain|tim|fu
+david|groebl|ve - vehicle integration|jinho|jung
+martin|burke|ve - interior engineering|rich|hager
+derek|wong|usa - battery technology|ying|liu
+james|finn|hq - corporate executive leadership ( operations center )|xindong|hu
+andrew|cook|ept - drivetrain|duanyang|wang
+nicholas|mason|ept - manufacturing engineering|justin|barozie
+john|collier|evap - logistics|rob|turk
+ashley|colette|ms - branding & pr|jason|wallace
+jeanie|whitney|ept - drivetrain|bill|trumbull
+mariano|ferraris|ept - manufacturing engineering|justin|barozie
+boon|khor|ept - architecture & control|chen-yen|yu
+chen|cui|intelligent driving|fan|wang
+jimengmeng|chen|hq - human resources|yalan|tan
+rajeev|rao|hq - pmo ( r&d corporate executive)|yifan|tang
+dianna|le|hq - human resources|yalan|tan
+eric|stetz|ve - vehicle integration|yaping|zhu
+colin|haag|ept - power electronics|zhong|nie
+michael|wood|ms - branding & pr|jason|wallace
+kuk fei|wan|hq - finance|yaojia|lin
+jungho|kim|japan - battery technology|ying|liu
+xiaoxi|lin|sokon group - strategy|yong|yang
+yasuo|nakahara|japan - battery technology|ying|liu
+courtney|stultz|evap - logistics|matt|turner
+michael|gale|evap - logistics|matt|turner
+hiroshi|imoto|japan - battery technology|ying|liu
+tong|wu|hq - pmo ( operations center )|bingbing|jiang
+vipul|guglani|ept - architecture & control|min|tian
+donald|spicer|evap - quality engineering|rob|gutierrez
+tong|wu|ept - power electronics|zhong|nie
+christel|hoover|evap - logistics|matt|turner
+surabhi|sharma|ept - architecture & control|min|tian
+shaun|vellucci|evap - paint|greg|voss
+hongqian|wang|usa - battery technology|ying|liu
+alan|miller|evap - quality engineering|rob|gutierrez
+dan|gordon|evap - facility & maintenance|andrew|laytart
+denise|orr|ve - vehicle integration|jinho|jung
+sean|clinton|hq - pmo ( r&d corporate executive)|yifan|tang
+haiyan|gong|hq - office operations|tim|fu
+james|brumbaugh|evap - facility & maintenance|todd|leahy
+qianyi|song|ept - drivetrain|jeffrey|leung
+bryan|tam|evap - body & battery|todd|leahy
+matthew|turner|evap - logistics|todd|leahy
+jun|hou|ept - architecture & control|min|tian
+gwo-jeng|lo|ept - power electronics|zhong|nie
+duan|wang|hq - office operations|joy|ge
+tan|truong|ept - battery system|mike|letchworth
+yong|hu|ept - drivetrain|james|ma
+ricardo|salinas|ve - design|alikhan|kuljanov
+can|shen|ms - product planning|zak|edson
+xiaoxi|fu|hq - supply chain|xindong|hu
+doug|ogden|hq - supply chain|amy|gong
+david|cripps|ve - chassis engineering|xindong|hu
+yong|yang|sokon group - strategy|john|zhang
+haochen|wu|hq - legal affairs|sheri|tang
+david|baker|ve - vehicle integration|jinho|jung
+zhichun|ma|ept - drivetrain|duanyang|wang
+qiang|zhai|ept - drivetrain|james|ma
+wenjing|xu|ept - architecture & control|duanyang|wang
+jana-mae|alcover|hq - pmo ( operations center )|joy|ge
+mark|herbert|ms - product planning|edmund|shen
+ronald|barrera|intelligent driving|jaime|camhi
+brian|lim|hq - it|shen|chen
+hala|al khalil|ept - architecture & control|teng|wu
+wenxin|fan|hq - human resources|yalan|tan
+martin|burke|hq - it|shen|chen
+supradeep|koganti|ept - architecture & control|doug|chidester
+jalen|esters|hq - supply chain|michael|lai
+wu|zhou|ve - vehicle integration|yaping|zhu
+yu-hsin|huang|usa - battery technology|ying|liu
+saifan|rafiq|ept - architecture & control|shawn|yuan
+edgar|trujillo|intelligent driving|jaime|camhi
+cuiting|mai|hq - human resources|yalan|tan
+zebin|wang|evap - facility & maintenance|jim|brumbaugh
+zhengyu|hao|ept - architecture & control|shawn|yuan
+jiayang|cao|ept - power electronics|zhong|nie
+marcus|watson|ept - manufacturing engineering|mariano|ferraris
+michelle|kwong|ept - drivetrain|franklin|yang
+sarah|spaugh|ept - architecture & control|chen-yen|yu
+william|tadekawa|ept - drivetrain|jeffrey|leung
+wajhiulla|smith-khan|intelligent driving|fan|wang
+reece|sagun|hq - it|shen|chen
+unmeel|mokashi|ept - architecture & control|sudhir|sawarkar
+meng|ye|hq - human resources|chuck|russo
+willy|halim|usa - battery technology|seungwan|kim
+le|nguyen|intelligent driving|avery|jutkowitz

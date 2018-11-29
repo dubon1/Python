@@ -1,0 +1,102 @@
+40522572|Jun Hou|Individual|Control System Toolbox™|1|Jun 30, 2018
+40522572|Jun Hou|Individual|Embedded Coder®|1|Jun 30, 2018
+40522572|Jun Hou|Individual|MATLAB®|1|Jun 30, 2018
+40522572|Jun Hou|Individual|MATLAB® Coder™|1|Jun 30, 2018
+40522572|Jun Hou|Individual|Simulink®|1|Jun 30, 2018
+40522572|Jun Hou|Individual|Simulink® Coder™|1|Jun 30, 2018
+40522572|Jun Hou|Individual|Simulink® Control Design™|1|Jun 30, 2018
+40522572|Jun Hou|Individual|Stateflow®|1|Jun 30, 2018
+40522572|Jun Hou|Individual|Vehicle Network Toolbox™|1|Jun 30, 2018
+40522573|Saeed  Rahimian|Individual|Curve Fitting Toolbox™|1|Feb 28, 2019
+40522573|Saeed  Rahimian|Individual|Global Optimization Toolbox|1|Apr 30, 2019
+40522573|Saeed  Rahimian|Individual|MATLAB®|1|Jun 30, 2018
+40522573|Saeed  Rahimian|Individual|Optimization Toolbox™|1|Feb 28, 2019
+40522573|Saeed  Rahimian|Individual|Simulink®|1|Jun 30, 2018
+40522574|Jennifer Pollock|Individual|MATLAB®|1|Jun 30, 2018
+40522574|Jennifer Pollock|Individual|Simulink®|1|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Embedded Coder®|2|Jun 30, 2018
+40554362|Network / Floating|Concurrent|MATLAB®|2|Jun 30, 2018
+40554362|Network / Floating|Concurrent|MATLAB®|1|Jul 31, 2018
+40554362|Network / Floating|Concurrent|MATLAB® Coder™|2|Jun 30, 2018
+40554362|Network / Floating|Concurrent|MATLAB® Report Generator™|1|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Powertrain Blockset™|1|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Simscape™|1|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Simscape™ Electronics™|1|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Simscape™ Power Systems™|1|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Simulink®|2|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Simulink®|1|Jul 31, 2018
+40554362|Network / Floating|Concurrent|Simulink® Coder™|2|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Simulink® Real-Time™|1|Jan 31, 2019
+40554362|Network / Floating|Concurrent|Simulink® Report Generator™|1|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Simulink® Test™|1|Jan 31, 2019
+40554362|Network / Floating|Concurrent|Stateflow®|2|Jun 30, 2018
+40554362|Network / Floating|Concurrent|Vehicle Network Toolbox™|2|Jun 30, 2018
+40554363|Min Tian|Individual|Embedded Coder®|1|Jun 30, 2018
+40554363|Min Tian|Individual|MATLAB®|1|Jun 30, 2018
+40554363|Min Tian|Individual|MATLAB® Coder™|1|Jun 30, 2018
+40554363|Min Tian|Individual|MATLAB® Report Generator™|1|Jun 30, 2018
+40554363|Min Tian|Individual|Powertrain Blockset™|1|Jun 30, 2018
+40554363|Min Tian|Individual|Simulink®|1|Jun 30, 2018
+40554363|Min Tian|Individual|Simulink® Coder™|1|Jun 30, 2018
+40554363|Min Tian|Individual|Simulink® Report Generator™|1|Jun 30, 2018
+40554363|Min Tian|Individual|Stateflow®|1|Jun 30, 2018
+40554363|Min Tian|Individual|Vehicle Network Toolbox™|1|Jun 30, 2018
+40554364|Yinghan Xu|Individual|Embedded Coder®|1|Jun 30, 2018
+40554364|Yinghan Xu|Individual|MATLAB®|1|Jun 30, 2018
+40554364|Yinghan Xu|Individual|MATLAB® Coder™|1|Jun 30, 2018
+40554364|Yinghan Xu|Individual|Simulink®|1|Jun 30, 2018
+40554364|Yinghan Xu|Individual|Simulink® Coder™|1|Jun 30, 2018
+40554364|Yinghan Xu|Individual|Stateflow®|1|Jun 30, 2018
+40554364|Yinghan Xu|Individual|Vehicle Network Toolbox™|1|Jun 30, 2018
+40584336|Ruonan Zhou|Individual|Embedded Coder®|1|Jun 30, 2018
+40584336|Ruonan Zhou|Individual|MATLAB®|1|Jun 30, 2018
+40584336|Ruonan Zhou|Individual|MATLAB® Coder™|1|Jun 30, 2018
+40584336|Ruonan Zhou|Individual|Simulink®|1|Jun 30, 2018
+40584336|Ruonan Zhou|Individual|Simulink® Coder™|1|Jun 30, 2018
+40584336|Ruonan Zhou|Individual|Stateflow®|1|Jun 30, 2018
+40584336|Ruonan Zhou|Individual|Vehicle Network Toolbox™|1|Jun 30, 2018
+40584337|Shawn Yuan|Individual|Embedded Coder®|1|Jun 30, 2018
+40584337|Shawn Yuan|Individual|MATLAB®|1|Jun 30, 2018
+40584337|Shawn Yuan|Individual|MATLAB® Coder™|1|Jun 30, 2018
+40584337|Shawn Yuan|Individual|Simulink®|1|Jun 30, 2018
+40584337|Shawn Yuan|Individual|Simulink® Coder™|1|Jun 30, 2018
+40584337|Shawn Yuan|Individual|Stateflow®|1|Jun 30, 2018
+40584337|Shawn Yuan|Individual|Vehicle Network Toolbox™|1|Jun 30, 2018
+40610453|Teng Wu|Individual|Automated Driving System Toolbox™|1|Sep 30, 2018
+40610453|Teng Wu|Individual|Computer Vision System Toolbox™|1|Sep 30, 2018
+40610453|Teng Wu|Individual|Curve Fitting Toolbox™|1|Feb 28, 2019
+40610453|Teng Wu|Individual|Image Processing Toolbox™|1|Sep 30, 2018
+40610453|Teng Wu|Individual|MATLAB®|1|Sep 30, 2018
+40610453|Teng Wu|Individual|Robotics System Toolbox™|1|Sep 30, 2018
+40610453|Teng Wu|Individual|Simulink®|1|Sep 30, 2018
+40610454|Andy Dun|Individual|MATLAB®|1|Sep 30, 2018
+40610454|Andy Dun|Individual|Simulink®|1|Sep 30, 2018
+40610455|Chung-Ling Lee|Individual|Computer Vision System Toolbox™|1|Sep 30, 2018
+40610455|Chung-Ling Lee|Individual|Image Processing Toolbox™|1|Sep 30, 2018
+40610455|Chung-Ling Lee|Individual|MATLAB®|1|Sep 30, 2018
+40610455|Chung-Ling Lee|Individual|Robotics System Toolbox™|1|Sep 30, 2018
+40610455|Chung-Ling Lee|Individual|Simulink®|1|Sep 30, 2018
+40610456|Kevin Chen|Individual|MATLAB®|1|Sep 30, 2018
+40610456|Kevin Chen|Individual|Simulink®|1|Sep 30, 2018
+40610457|SangWoo Han|Individual|Automated Driving System Toolbox™|1|Sep 30, 2018
+40610457|SangWoo Han|Individual|MATLAB®|1|Sep 30, 2018
+40610457|SangWoo Han|Individual|Optimization Toolbox™|1|Feb 28, 2019
+40610457|SangWoo Han|Individual|Simulink®|1|Sep 30, 2018
+40610458|Dale Zhang|Individual|MATLAB®|1|Sep 30, 2018
+40610458|Dale Zhang|Individual|Simulink®|1|Sep 30, 2018
+40610459|Chen Bao|Individual|Automated Driving System Toolbox™|1|Sep 30, 2018
+40610459|Chen Bao|Individual|Computer Vision System Toolbox™|1|Sep 30, 2018
+40610459|Chen Bao|Individual|Image Processing Toolbox™|1|Sep 30, 2018
+40610459|Chen Bao|Individual|MATLAB®|1|Sep 30, 2018
+40610459|Chen Bao|Individual|Robotics System Toolbox™|1|Sep 30, 2018
+40610459|Chen Bao|Individual|Simulink®|1|Sep 30, 2018
+40610460|Rui Guo|Individual|Automated Driving System Toolbox™|1|Sep 30, 2018
+40610460|Rui Guo|Individual|Computer Vision System Toolbox™|1|Sep 30, 2018
+40610460|Rui Guo|Individual|Image Processing Toolbox™|1|Sep 30, 2018
+40610460|Rui Guo|Individual|MATLAB®|1|Sep 30, 2018
+40610460|Rui Guo|Individual|Robotics System Toolbox™|1|Sep 30, 2018
+40610460|Rui Guo|Individual|Simulink®|1|Sep 30, 2018
+40658175|Tianyuan Liu|Individual|MATLAB®|1|Feb 28, 2019
+40658175|Tianyuan Liu|Individual|Simulink®|1|Feb 28, 2019
+40658176|Bin Wu|Individual|MATLAB®|1|Feb 28, 2019
+40658176|Bin Wu|Individual|Simulink®|1|Feb 28, 2019

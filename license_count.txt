@@ -1,0 +1,35 @@
+Product_Name                     |Ind_or_Con |sum   
+Automated Driving System Toolbox™|Individual |  4
+Computer Vision System Toolbox™  |Individual |  4
+Control System Toolbox™          |Individual |  1
+Curve Fitting Toolbox™           |Individual |  2
+Embedded Coder®                  |Concurrent |  2
+                                 |Individual |  5
+Global Optimization Toolbox      |Individual |  1
+Image Processing Toolbox™        |Individual |  4
+MATLAB®                          |Concurrent |  3
+                                 |Individual | 17
+MATLAB® Coder™                   |Concurrent |  2
+                                 |Individual |  5
+MATLAB® Report Generator™        |Concurrent |  1
+                                 |Individual |  1
+Optimization Toolbox™            |Individual |  2
+Powertrain Blockset™             |Concurrent |  1
+                                 |Individual |  1
+Robotics System Toolbox™         |Individual |  4
+Simscape™                        |Concurrent |  1
+Simscape™ Electronics™           |Concurrent |  1
+Simscape™ Power Systems™         |Concurrent |  1
+Simulink®                        |Concurrent |  3
+                                 |Individual | 17
+Simulink® Coder™                 |Concurrent |  2
+                                 |Individual |  5
+Simulink® Control Design™        |Individual |  1
+Simulink® Real-Time™             |Concurrent |  1
+Simulink® Report Generator™      |Concurrent |  1
+                                 |Individual |  1
+Simulink® Test™                  |Concurrent |  1
+Stateflow®                       |Concurrent |  2
+                                 |Individual |  5
+Vehicle Network Toolbox™         |Concurrent |  2
+                                 |Individual |  5

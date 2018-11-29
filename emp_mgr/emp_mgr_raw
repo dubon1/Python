@@ -1,0 +1,387 @@
+First name	Last name	Company email	Latest Date of Hire	Employee type	Department	Reports To Full Name
+Tyler	Sheffield	tyler.sheffield@sfmotors.com	10/1/2018	Contractor	Intelligent Driving	Avery Jutkowitz
+Steven	White	steven.white@sfmotors.com	10/1/2018	Contractor	Intelligent Driving	Avery Jutkowitz
+OLGA	CURIEL	olga.curiel@sfmotors.com	6/25/2018	Contractor	HQ - Human Resources	Tom Zhang
+Lewis	Bohannon	lewis.bohannon@sfmotors.com	3/26/2018	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Zefeng	Yang	franklin.yang@sfmotors.com	11/21/2016	Full Time	EPT - Drivetrain	James Ma
+Troy	Murphy	troy.murphy@sfmotors.com	3/26/2018	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Donnie	Hill	donnie.hill@sfmotors.com	3/26/2018	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Joseph	Clark	joseph.clark@sfmotors.com	3/26/2018	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Amol	Sonaje	amol.sonaje@sfmotors.com	11/6/2017	Full Time	VE - Interior Engineering	Rich Hager
+Lawrence	Nguyen	lawrence.nguyen@sfmotors.com	10/30/2017	Full Time	EPT - Drivetrain	Jeffrey Leung
+Jeremy	Elsberry	jeremy.elsberry@sfmotors.com	1/2/2018	Full Time	USA - Battery Technology	Ying Liu
+Saeed	Khaleghi Rahimian	saeed.rahimian@sfmotors.com	10/16/2017	Full Time	USA - Battery Technology	Ying Liu
+Yifan	Tang	yifan.tang@sfmotors.com	2/20/2017	Full Time	HQ - Corporate Executive Leadership ( R&D Center )	John Zhang
+Benjamin	Tarloff	benjamin.tarloff@sfmotors.com	11/13/2017	Full Time	VE - Vehicle Integration	Yaping Zhu
+Neal	Wyman	neal.wyman@sfmotors.com	11/13/2017	Full Time	EVAP - General Assembly	Chuck Morris
+Xiaodong	Jiang	xiaodong.jiang@sfmotors.com	10/23/2017	Full Time	Intelligent Driving	Oliver Su
+Heng	Kang	heng.kang@sfmotors.com	11/13/2017	Full Time	EPT - Battery System	Nathalie Capati
+Nicholas	Bowker	nicholas.bowker@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Jim Brumbaugh
+Suresh	Kumar	suresh.kumar@sfmotors.com	7/10/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Gerald I	Bartley Jr.	garry.bartley@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Toby	Goetz	toby.goetz@sfmotors.com	12/4/2017	Full Time	EVAP - General Assembly	Jose Ochoa
+Henri	Kavaja	henri.kavaja@sfmotors.com	3/26/2018	Full Time	VE - Design	Alikhan Kuljanov
+Stephanie	Deming	stephanie.deming@sfmotors.com	11/1/2017	Full Time	EVAP - Logistics	Matt Turner
+Andrew	Duvall	andy.duvall@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Leah	Nakashima	leah.nakashima@sfmotors.com	1/2/2018	Full Time	VE - Vehicle Integration	Jinho Jung
+Xiaoran	Yao	roy.yao@sfmotors.com	1/2/2017	Full Time	VE - Design	Alikhan Kuljanov
+Adriano	Raeli	adriano.raeli@sfmotors.com	10/31/2016	Full Time	VE - Design	Alikhan Kuljanov
+Daniel	Collins	daniel.collins@sfmotors.com	6/12/2017	Full Time	VE - Vehicle Integration	Yaping Zhu
+Wenke	Zhang	dale.zhang@sfmotors.com	12/18/2017	Full Time	USA - Battery Technology	Brennan Campbell
+Zhe	Huang	ryan.huang@sfmotors.com	6/13/2016	Full Time	EPT - Power Electronics	Zhong Nie
+Yiqian	Li	yiqian.li@sfmotors.com	3/28/2018	Full Time	Intelligent Driving	Fan Wang
+Scott	Konkey	scott.konkey@sfmotors.com	11/6/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Leonard	Schaefer	lenny.schaefer@sfmotors.com	11/6/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Denise	Thomas	denise.davis@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Saurabh	Singh	saurabh.singh@sfmotors.com	2/19/2018	Full Time	Intelligent Driving	Fan Wang
+Federico	Torres	federico.torres@sfmotors.com	12/11/2017	Full Time	EVAP - General Assembly	Jose Ochoa
+Shea	Nyquist	shea.nyquist@sfmotors.com	8/7/2017	Full Time	EPT - Drivetrain	Andy Cook
+Daniel	Swanbeck	daniel.swanbeck@sfmotors.com	1/2/2018	Full Time	EPT - Drivetrain	Andy Cook
+Bruno	Gallardo	bruno.gallardo@sfmotors.com	11/28/2016	Full Time	VE - Design	Alikhan Kuljanov
+Carlos	Campos	carlos.campos@sfmotors.com	1/16/2018	Full Time	EVAP - General Assembly	Chuck Morris
+Yuensen	Wang	vincent.wang@sfmotors.com	1/2/2018	Full Time	HQ - IT	Shen Chen
+Fujuan	Wang	martina.wang@sfmotors.com	7/5/2011	Full Time	Chongqing Office Operations - China	John Zhang
+Mingjun	Xia	mingjun.xia@sfmotors.com	4/7/2017	Full Time	Chongqing Office Operations - China	Martina  Wang
+Shangping	Jiang	shangping.jiang@sfmotors.com	9/18/2010	Full Time	Chongqing Office Operations - China	Martina  Wang
+Yuna	Chen	trina.chen@sfmotors.com	7/21/2016	Full Time	Chongqing Office Operations - China	Martina  Wang
+Nathalie	Capati	nathalie.capati@sfmotors.com	1/9/2017	Full Time	EPT - Battery System	Duanyang Wang
+Chen-Yen	YU	chen-yen.yu@sfmotors.com	1/23/2017	Full Time	EPT - Architecture & Control	Duanyang Wang
+Teng	Wu	teng.wu@sfmotors.com	7/31/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Zhensheng	Yuan	shawn.yuan@sfmotors.com	11/7/2016	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Min	Tian	min.tian@sfmotors.com	2/20/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Kangwei	Mao	kangwei.mao@sfmotors.com	5/8/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Anirban	Niyogi	anirban.niyogi@sfmotors.com	11/6/2017	Full Time	EPT - Battery System	Nathalie Capati
+Kuang-chih	Lai	michael.lai@sfmotors.com	4/9/2018	Full Time	HQ - Supply Chain	Amy Gong
+Kevin	Jackson	kevin.jackson@sfmotors.com	11/27/2017	Full Time	EVAP - Paint	Greg Voss
+Robert	Lucas	wes.lucas@sfmotors.com	3/26/2018	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Zhong	Nie	zhong.nie@sfmotors.com	2/20/2017	Full Time	EPT - Power Electronics	Duanyang Wang
+David	Bogda	david.bogda@sfmotors.com	11/1/2017	Full Time	EVAP - General Assembly	Chuck Morris
+Hua	Ye	hua.ye@sfmotors.com	2/27/2017	Full Time	EPT - Drivetrain	James Ma
+Dustin	Rose	dustin.rose@sfmotors.com	5/29/2017	Full Time	EPT - Drivetrain	James Ma
+Ying	Liu	ying.liu@sfmotors.com	11/28/2016	Full Time	USA - Battery Technology	Yifan Tang
+Rabeel	Elahi	rabeel.elahi@sfmotors.com	9/17/2018	Full Time	EPT - Architecture & Control	Shawn Yuan
+Ken	Ogata	ken.ogata@sfmotors.com	6/11/2018	Full Time	Japan - Battery Technology	Ying Liu
+Anh	Nguyen	anh.nguyen@sfmotors.com	8/6/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+Lin	Xu	lin.xu@sokon.com	12/21/2017	Full Time	HQ - Corporate Executive Leadership ( Operations Center )	John Zhang
+Jie Qiu	Ma	mandy.ma@sfmotors.com	8/31/2016	Full Time	HQ - Finance	YaoJia Lin
+Lei	Gu	lei.gu@sfmotors.com	6/11/2018	Full Time	EPT - Drivetrain	James Ma
+Mark	Holderman	mark.holderman@sfmotors.com	6/4/2018	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Jason	Lilly	jason.lilly@sfmotors.com	11/1/2017	Full Time	EVAP - Paint	Greg Voss
+Kevin	Smith	kevin.smith@sfmotors.com	7/23/2018	Full Time	EVAP - Paint	Greg Voss
+Sean	Russell	sean.russell@sfmotors.com	3/20/2018	Full Time	MS - Branding & PR	Jason Wallace
+Chen	Bao	chen.bao@sfmotors.com	5/29/2017	Full Time	Intelligent Driving	Ziqi Zhu
+Wu	Dun	andy.dun@sfmotors.com	6/12/2017	Full Time	Intelligent Driving	Ziqi Zhu
+Jose	Ochoa	jose.ochoa@sfmotors.com	1/22/2018	Full Time	EVAP - General Assembly	Todd Leahy
+Michael	Campeau	michael.campeau@sfmotors.com	11/27/2017	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Bhavik	Doshi	bhavik.doshi@sfmotors.com	9/17/2018	Full Time	Intelligent Driving	Jaime Camhi
+Xiaobo	Li	xiaobo.li@sfmotors.com	7/24/2017	Full Time	HQ - IT	Xindong Hu
+Kenneth	Zmudzinski	kenneth.zmudzinski@sfmotors.com	11/1/2017	Full Time	EVAP - EHS	Todd Leahy
+Yumeng	Pierson	jasmine.pierson@sfmotors.com	3/20/2017	Full Time	HQ - Office Operations	Joy Ge
+Leo	Li	leo.li@sfmotors.com	10/15/2018	Full Time	HQ - Human Resources	Chuck Russo
+Rocco	Sacco	rocco.sacco@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Duanyang	Wang	duanyang.wang@sfmotors.com	5/31/2016	Full Time	HQ - Corporate Executive Leadership ( R&D Center )	Yifan Tang
+Yawei	Zhang	yawei.zhang@sfmotors.com	4/16/2018	Full Time	Intelligent Driving	Oliver Su
+Rongfei	Fan	rongfei.fan@sfmotors.com	10/19/2016	Full Time	HQ - Legal Affairs	Sheri Tang
+Jonathan	Woods	jonathan.woods@sfmotors.com	6/12/2017	Full Time	HQ - Supply Chain	Amy Gong
+Rebecca	Campbell	rebecca.campbell@sfmotors.com	11/1/2017	Full Time	EVAP - Plant Operations	Todd Leahy
+Rick	Evans	rick.evans@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Jim Brumbaugh
+Joshua	Hoffman	joshua.hoffman@sfmotors.com	6/19/2017	Full Time	Intelligent Driving	Shugang Jiang
+Hingloi	Leung	jeffrey.leung@sfmotors.com	4/3/2017	Full Time	EPT - Drivetrain	Duanyang Wang
+Li	Wei	li.wei@sfmotors.com	8/13/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Jason	Jung	jinho.jung@sfmotors.com	9/25/2017	Full Time	VE - Vehicle Integration	Xindong Hu
+Vibha	Manvi	vibha.manvi@sfmotors.com	12/11/2017	Full Time	VE - Vehicle Integration	Jinho Jung
+Daniel	Bowker	daniel.bowker@sfmotors.com	11/1/2017	Full Time	EVAP - Body & Battery	Bryan Tam
+Kyle	Greenhaw	kyle.greenhaw@sfmotors.com	11/6/2017	Full Time	EPT - Drivetrain	Andy Cook
+Olivia	Boross	olivia.boross@sfmotors.com	1/29/2018	Full Time	HQ - Human Resources	Tom Zhang
+Lin	Liang	olivia.liang@sfmotors.com	10/2/2017	Full Time	MS - Branding & PR	Jason Wallace
+Nash	Livingston	nash.livingston@sfmotors.com	12/18/2017	Full Time	EPT - Battery System	Nathalie Capati
+Stephen	Walter	stephen.walter@sfmotors.com	10/30/2017	Full Time	HQ - PMO ( Operations Center )	Duanyang Wang
+Anh	Phung	anh.phung@sfmotors.com	7/3/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Doanh	Nguyen	doanh.nguyen@sfmotors.com	6/19/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Faithann	Caspellan	faith.caspellan@sfmotors.com	3/26/2018	Full Time	HQ - Office Operations	Joy Ge
+Xindong	Hu	xindong.hu@sfmotors.com	1/23/2017	Full Time	HQ - Corporate Executive Leadership ( Operations Center )	John Zhang
+Nischitha	Mallikarjuna	nischitha.mallikarjuna@sfmotors.com	10/2/2017	Full Time	Intelligent Driving	Jaime Camhi
+Patel	Reddy	patel.reddy@sfmotors.com	3/20/2017	Full Time	EPT - Drivetrain	James Ma
+Timothy	Watson	tim.watson@sfmotors.com	11/27/2017	Full Time	EPT - Battery System	Nathalie Capati
+Elaine	Lam	elaine.lam@sfmotors.com	2/19/2018	Full Time	HQ - Finance	YaoJia Lin
+Gilbert	Gamboa	gilbert.gamboa@sfmotors.com	1/22/2018	Full Time	Intelligent Driving	Ziqi Zhu
+Arthur	Ellis	robert.ellis@sfmotors.com	2/27/2017	Full Time	EPT - Drivetrain	Duanyang Wang
+Julie Ann	Santiano	julie.santiano@sfmotors.com	12/11/2017	Full Time	MS - Branding & PR	Jason Wallace
+Vijay	Palanikumar	vijay.palanikumar@sfmotors.com	1/16/2018	Full Time	VE - Body Engineering	David Cripps
+Yalan	Tan	yalan.tan@sfmotors.com	10/2/2017	Full Time	HQ - Human Resources	Tom Zhang
+Yaping	Zhu	yaping.zhu@sfmotors.com	12/11/2017	Full Time	VE - Vehicle Integration	Jinho Jung
+Rui	Yu	rita.yu@sfmotors.com	7/3/2017	Full Time	Intelligent Driving	Fan Wang
+Sangwoo	Han	sangwoo.han@sfmotors.com	12/11/2017	Full Time	USA - Battery Technology	Saeed Khaleghi Rahimian
+Yinghan	Xu	yinghan.xu@sfmotors.com	12/18/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Chris	Louie	chris.louie@sfmotors.com	7/9/2018	Full Time	HQ - Supply Chain	Amy Gong
+Guy	Braden	guy.braden@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Ziqi	Zhu	ziqi.zhu@sfmotors.com	10/23/2017	Full Time	Intelligent Driving	Yifan Tang
+Danny	Trinh	danny.trinh@sfmotors.com	11/6/2017	Full Time	HQ - Office Operations	Xindong Hu
+David	Saygers	david.saygers@sfmotors.com	3/26/2018	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Vittoria	Giannetto	vittoria.giannetto@sfmotors.com	5/14/2018	Full Time	EVAP - Logistics	Matt Turner
+Justin	Wang	justin.wang@sfmotors.com	1/29/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+John Paul	Trujillo	johnpaul.trujillo@sfmotors.com	3/5/2018	Full Time	EPT - Battery System	Nathalie Capati
+William	Trumbull	bill.trumbull@sfmotors.com	2/19/2018	Full Time	EPT - Drivetrain	Duanyang Wang
+Panqi	Chu	panqi.chu@sfmotors.com	2/26/2018	Full Time	EVAP - Plant Operations	Jose Ochoa
+Che	Silkiss-Hero	che.silkiss-hero@sfmotors.com	10/16/2017	Full Time	EPT - Drivetrain	James Ma
+Kelly	Aldapa	kelly.aldapa@sfmotors.com	8/16/2017	Full Time	HQ - Supply Chain	Amy Gong
+Ao-Jan	Su	oliver.su@sfmotors.com	10/30/2017	Full Time	Intelligent Driving	Yifan Tang
+Gabriel	Miranda	gabriel.miranda@sfmotors.com	2/12/2018	Full Time	HQ - PMO ( EPT )	Duanyang Wang
+Rian	Payne	rian.payne@sfmotors.com	2/12/2018	Full Time	HQ - Human Resources	Tom Zhang
+Jacob	Heth	jacob.heth@sfmotors.com	4/17/2017	Full Time	EPT - Battery System	Nathalie Capati
+Jeffry	Bai	jeffry.bai@sfmotors.com	5/1/2017	Full Time	HQ - Legal Affairs	Sheri Tang
+Boangoat	Jarupan	boangoat.jarupan@sfmotors.com	1/22/2018	Full Time	Intelligent Driving	Oliver Su
+Jimmy	Do	jimmy.do@sfmotors.com	4/2/2018	Full Time	HQ - Office Operations	Danny  Trinh
+Pradeep	Sundararaman	pradeep.sundararaman@sfmotors.com	1/8/2018	Full Time	VE - Vehicle Integration	Yaping Zhu
+Seung Wan	Kim	seungwan.kim@sfmotors.com	4/23/2018	Full Time	USA - Battery Technology	Ying Liu
+Simon	Poon	simon.poon@sfmotors.com	2/19/2018	Full Time	HQ - Supply Chain	Amy Gong
+Michael	Swingendorf	michael.swingendorf@sfmotors.com	2/5/2018	Full Time	EVAP - Facility & Maintenance	Rick Evans
+William	Park	will.park@sfmotors.com	2/26/2018	Full Time	MS - Branding & PR	Jason Wallace
+George	Wu	george.wu@sfmotors.com	2/5/2018	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Jason	Wallace	jason.wallace@sfmotors.com	9/11/2017	Full Time	MS - Branding & PR	Zak Edson
+Robert	Turk	robert.turk@sfmotors.com	11/1/2017	Full Time	EVAP - Logistics	Matt Turner
+Michael	Churchill	michael.churchill@sfmotors.com	1/2/2017	Full Time	VE - Design	Alikhan Kuljanov
+Marco	Flores	marco.flores@sfmotors.com	2/19/2018	Full Time	HQ - Office Operations	Danny  Trinh
+Juichi	Arai	juichi.arai@sfmotors.com	4/2/2018	Full Time	Japan - Battery Technology	Ying Liu
+Tom	Szynalski	tom.szynalski@sfmotors.com	3/12/2018	Full Time	EVAP - General Assembly	Jose Ochoa
+Tung-Yan	Wu	tung-yan.wu@sfmotors.com	7/2/2018	Full Time	EPT - Architecture & Control	Chung-Ling Lee
+Jingxian	Zhao	joanna.zhao@sfmotors.com	7/9/2018	Full Time	EPT - Battery System	Nathalie Capati
+Zachary	Edson	zak.edson@sfmotors.com	3/30/2018	Full Time	HQ - Corporate Executive Leadership ( Operations Center )	John Zhang
+HueiJia	Huang	lindia.huang@sfmotors.com	4/23/2018	Full Time	Japan - Battery Technology	Ying Liu
+Gang	Yang	gang.yang@sfmotors.com	2/19/2018	Full Time	USA - Battery Technology	Ying Liu
+Xiongfei	Zhang	bill.zhang@sfmotors.com	2/19/2018	Full Time	HQ - Marketing & Sales	Zak Edson
+Sangjoon	Han	sangjoon.han@sfmotors.com	12/4/2017	Full Time	VE - Vehicle Integration	Yaping Zhu
+Abhra	Chatterjee	abhra.chatterjee@sfmotors.com	1/29/2018	Full Time	EPT - Drivetrain	James Ma
+Chengyu	Mao	chengyu.mao@sfmotors.com	9/17/2018	Full Time	USA - Battery Technology	Ying Liu
+Hieu	Dang	hieu.dang@sfmotors.com	6/18/2018	Full Time	Intelligent Driving	Avery Jutkowitz
+David	Nicasio-Solis	david.nicasio@sfmotors.com	2/26/2018	Full Time	MS - Branding & PR	Jason Wallace
+Ruoyu	Zhang	ruoyu.zhang@sfmotors.com	6/18/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Hanbo	Wang	hanbo.wang@sfmotors.com	12/18/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Peicong	Liu	peicong.liu@sfmotors.com	6/11/2018	Full Time	Intelligent Driving	Ziqi Zhu
+Bryan	Fife	bryan.fife@sfmotors.com	5/21/2018	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Andrew	Laytart	andrew.laytart@sfmotors.com	5/21/2018	Full Time	EVAP - Facility & Maintenance	Jim Brumbaugh
+Robert	Gutierrez	robert.gutierrez@sfmotors.com	11/1/2017	Full Time	EVAP - Quality Engineering	Todd Leahy
+Hajime	Hoshi	hajime.hoshi@sfmotors.com	6/4/2018	Full Time	Japan - Battery Technology	Ying Liu
+Apoorva	Athavale	apoorva.athavale@sfmotors.com	6/4/2018	Full Time	EPT - Drivetrain	James Ma
+Scott	Monismith	scott.monismith@sfmotors.com	9/11/2017	Full Time	USA - Battery Technology	Ying Liu
+Jason	Tran	jason.tran@sfmotors.com	6/18/2018	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Bin Bin	Chi	binbin.chi@sfmotors.com	6/5/2017	Full Time	EPT - Battery System	Nathalie Capati
+Kailiang	Chen	kailiang.chen@sfmotors.com	7/31/2017	Full Time	Intelligent Driving	Fan Wang
+Hua Ming	Tang	sheri.tang@sfmotors.com	8/22/2016	Full Time	HQ - Legal Affairs	Xindong Hu
+U Yong	Choi	ariel.choi@sfmotors.com	7/9/2018	Full Time	VE - Design	Alikhan Kuljanov
+Araceli	Garza	araceli.garza@sfmotors.com	2/5/2018	Full Time	HQ - Office Operations	Joy Ge
+Michele	De Demo	michele.dedemo@sfmotors.com	8/13/2018	Full Time	VE - Design	Alikhan Kuljanov
+Laura	Stone	laura.stone@sfmotors.com	6/4/2018	Full Time	EVAP - Logistics	Rob Turk
+Mehdi	Forouzan	mehdi.forouzan@sfmotors.com	6/18/2018	Full Time	USA - Battery Technology	Saeed Khaleghi Rahimian
+Qi	Zhang	tom.zhang@sfmotors.com	9/4/2017	Full Time	HQ - Corporate Executive Leadership ( Operations Center )	Xindong Hu
+David	Fontana	david.fontana@sfmotors.com	5/29/2018	Full Time	VE - Vehicle Integration	Jinho Jung
+Todd	Leahy	todd.leahy@sfmotors.com	11/1/2017	Full Time	EVAP - Body & Battery	James  Finn
+Ziyu	Li	ever.lee@sfmotors.com	8/1/2018	Full Time	HQ - PMO ( Operations Center )	James  Finn
+Chen	Liang	grace.liang@sfmotors.com	6/11/2018	Full Time	HQ - IT	Evan Tian
+Philip	Barron	phil.barron@sfmotors.com	11/6/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Phu	Nguyen	phu.nguyen@sfmotors.com	6/4/2018	Full Time	EPT - Battery System	Mike Letchworth
+Yang	Sun	yang.sun@sfmotors.com	8/1/2016	Full Time	VE - Design	Alikhan Kuljanov
+Thomas	Ryska	thomas.ryska@sfmotors.com	11/13/2017	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Scott A	Rivers	scott.rivers@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Cecilia	Coleman	cecilia.coleman@sfmotors.com	11/6/2017	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Brendan	Jurgenson	brendan.jurgenson@sfmotors.com	11/1/2017	Full Time	EVAP - General Assembly	Chuck Morris
+Todd	Treder	todd.treder@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Jacob	Swiss	jacob.swiss@sfmotors.com	10/30/2017	Full Time	HQ - Legal Affairs	Sheri Tang
+Xin	Zhao	xin.zhao@sfmotors.com	7/2/2018	Full Time	Sokon Group - Strategy	Yong Yang
+Charles	Russo	chuck.russo@sfmotors.com	10/30/2017	Full Time	HQ - Human Resources	Tom Zhang
+Richard	Baron	richard.baron@sfmotors.com	7/23/2018	Full Time	VE - Interior Engineering	David Cripps
+Brennan	Campbell	brennan.campbell@sfmotors.com	10/2/2017	Full Time	USA - Battery Technology	Ying Liu
+Alikhan	Kuljanov	alikhan.kuljanov@sfmotors.com	11/13/2017	Full Time	VE - Design	Xindong Hu
+Jo Ann	Sison	joann.sison@sfmotors.com	8/13/2018	Full Time	Intelligent Driving	Jaime Camhi
+Kathleen	Jones	kate.jones@sfmotors.com	11/1/2017	Full Time	EVAP - HR	Todd Leahy
+Chuan	Shi	chuan.shi@sfmotors.com	6/25/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Jennifer	Pollock	jennifer.pollock@sfmotors.com	3/19/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Amy	Kellerman	amy.kellerman@sfmotors.com	5/29/2018	Full Time	EVAP - IT	Karim Stani Abotchi
+Zhengping	Zhang	john.zhang@sfmotors.com	1/11/2016	Full Time	HQ - Corporate Executive Leadership ( Operations Center )	self boss
+Liu	He	liu.he@sfmotors.com	5/21/2018	Full Time	Intelligent Driving	Ziqi Zhu
+Jaime	Camhi	jaime.camhi@sfmotors.com	1/22/2018	Full Time	Intelligent Driving	Yifan Tang
+Yang	Yang	yang.yang@sfmotors.com	4/2/2018	Full Time	Japan - Battery Technology	Ying Liu
+Jiaxian	Wang	jesse.wang@sfmotors.com	9/4/2017	Full Time	EPT - Battery System	Nathalie Capati
+David	Hsieh	david.hsieh@sfmotors.com	3/26/2018	Full Time	HQ - Marketing & Sales	Zak Edson
+Karim	Abotchi	karim.abotchi@sfmotors.com	9/4/2018	Full Time	EVAP - IT	Shen Chen
+Ruonan	Zhou	ruonan.zhou@sfmotors.com	5/29/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Blake	Harrington	blake.harrington@sfmotors.com	7/16/2018	Full Time	EPT - Battery System	Nathalie Capati
+Eric	Castleman	eric.castleman@sfmotors.com	8/28/2018	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Ganapathy Ramprasath	Ramachandran	ganapathy.ramachandran@sfmotors.com	11/6/2017	Full Time	HQ - PMO ( VE )	Duanyang Wang
+Yunan	Song	yunan.song@sfmotors.com	9/18/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Felicia	Lam	felicia.lam@sfmotors.com	3/13/2017	Full Time	HQ - Finance	YaoJia Lin
+Erik	Grossman	erik.grossman@sfmotors.com	8/3/2018	Full Time	HQ - Office Operations	John Zhang
+Douglas	Chidester	douglas.chidester@sfmotors.com	10/30/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Junzhe	Shi	junzhe.shi@sfmotors.com	7/2/2018	Full Time	USA - Battery Technology	Saeed Khaleghi Rahimian
+Bingbing	Jiang	bingbing.jiang@sfmotors.com	7/9/2018	Full Time	HQ - PMO ( Operations Center )	Ever Li
+Trevor	Wilcox	trevor.wilcox@sfmotors.com	12/4/2017	Full Time	EPT - Battery System	Mike Letchworth
+Kai	Yang	kai.yang@sfmotors.com	10/15/2018	Full Time	Intelligent Driving	Jaime Camhi
+Shanshan	Sun	susan.sun@sfmotors.com	7/2/2018	Full Time	HQ - Supply Chain	Amy Gong
+Avery	Jutkowitz	avery.jutkowitz@sfmotors.com	9/18/2017	Full Time	Intelligent Driving	Yifan Tang
+Shugang	Jiang	shugang.jiang@sfmotors.com	4/24/2017	Full Time	VE - Electronics & Electrical Engineering	Xindong Hu
+Chung-Ling	Lee	chung-ling.lee@sfmotors.com	11/13/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Paige	Korner	paige.korner@sfmotors.com	8/21/2017	Full Time	HQ - Office Operations	Joy Ge
+Yueyue	Ge	yueyue.ge@sfmotors.com	4/10/2017	Full Time	HQ - Office Operations	Xindong Hu
+Dien	Lam	dien.lam@sfmotors.com	4/9/2018	Full Time	HQ - IT	Shen Chen
+Todd	Howdeshell	todd.howdeshell@sfmotors.com	6/4/2018	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Darren	Vohs	darren.vohs@sfmotors.com	11/6/2017	Full Time	EVAP - Facility & Maintenance	Neil Orians
+Xingwen	Tian	evan.tian@sfmotors.com	4/3/2017	Full Time	HQ - IT	Xiaobo Li
+David	Tullis	david.tullis@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Rodney	Cochran	rod.cochran@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Frank	Fanin Jr.	frank.fanin@sfmotors.com	11/6/2017	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Wayne	Holderman	wayne.holderman@sfmotors.com	11/6/2017	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Frederick	Van Klaveren	fred.vanklaveren@sfmotors.com	11/1/2017	Full Time	EVAP - Logistics	Matt Turner
+Tae Won	Park	taewon.park@sfmotors.com	1/8/2018	Full Time	VE - Vehicle Integration	Yaping Zhu
+Minghao	Dai	minghao.dai@sfmotors.com	11/6/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Michael	Letchworth	mike.letchworth@sfmotors.com	8/20/2018	Full Time	EPT - Battery System	Nathalie Capati
+Christopher	Purser	chris.purser@sfmotors.com	8/21/2017	Full Time	VE - Vehicle Integration	David Cripps
+Christopher	Chan	chris.chan@sfmotors.com	6/11/2018	Full Time	Intelligent Driving	Avery Jutkowitz
+Yang	Gao	yang.gao@sfmotors.com	7/30/2018	Full Time	EPT - Battery System	Nathalie Capati
+Julie	Griffin	julie.griffin@sfmotors.com	11/1/2017	Full Time	EVAP - HR	Kate Jones
+Zi Yao	Ding	felix.ding@sfmotors.com	6/5/2017	Full Time	EPT - Drivetrain	James Ma
+Fan	Wang	fan.wang@sfmotors.com	6/25/2018	Full Time	Intelligent Driving	Yifan Tang
+Gearld	Pond	gearld.pond@sfmotors.com	4/30/2018	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Bennie	Esters	bennie.esters@sfmotors.com	5/21/2018	Full Time	VE - Design	Eric Obers
+Nicholas	Soh	nicholas.soh@sfmotors.com	3/12/2018	Full Time	HQ - Supply Chain	Susan Sun
+Hien	Truong	henry.truong@sfmotors.com	7/30/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Patrick	Graf	patrick.graf@sfmotors.com	6/4/2018	Full Time	EVAP - Body & Battery	Dean Bowker
+Richard	Hager	rich.hager@sfmotors.com	7/10/2017	Full Time	VE - Interior Engineering	Xindong Hu
+Chien-Po	Huang	chien-po.huang@sfmotors.com	5/21/2018	Full Time	USA - Battery Technology	Ying Liu
+Michael	Salamone	michael.salamone@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Jim Brumbaugh
+Radu	Dimian	radu.dimian@sfmotors.com	11/27/2017	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Jhenghao	Chen	jhenghao.chen@sfmotors.com	7/10/2017	Full Time	Intelligent Driving	Fan Wang
+Qi	Ruan	kay.ruan@sfmotors.com	3/12/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+Henricus Johannes Maria	Obers	eric.obers@sfmotors.com	11/27/2017	Full Time	VE - Design	Alikhan Kuljanov
+Leo	Wetli	leo.wetli@sfmotors.com	4/24/2018	Full Time	EVAP - Facility & Maintenance	Jim Brumbaugh
+Amina	Dines	amina.dines@sfmotors.com	4/30/2018	Full Time	VE - Vehicle Integration	Denise Orr
+Lay Fong	Wong	layfong.wong@sfmotors.com	2/12/2018	Full Time	HQ - Finance	YaoJia Lin
+Lamar	Ashford	lamar.ashford@sfmotors.com	11/13/2017	Full Time	EVAP - Paint	Greg Voss
+Neil	Orians	neil.orians@sfmotors.com	11/13/2017	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Weimin	Zhang	weimin.zhang@sfmotors.com	9/10/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Vijay	Kalidindi	vijay.kalidindi@sfmotors.com	12/11/2017	Full Time	VE - Vehicle Integration	David Groebl
+Jayant	Kulkarni	jayant.kulkarni@sfmotors.com	4/30/2018	Full Time	Intelligent Driving	Oliver Su
+Steve	Davis	steve.davis@sfmotors.com	5/30/2018	Full Time	EVAP - Body & Battery	Bryan Tam
+Ke	Huang	ke.huang@sfmotors.com	6/4/2018	Full Time	Intelligent Driving	Fan Wang
+Chia-Hsun	Hsieh	jason.hsieh@sfmotors.com	10/16/2017	Full Time	EPT - Drivetrain	James Ma
+John	Billisitz	john.billisitz@sfmotors.com	6/4/2018	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Charles	Morris	charles.morris@sfmotors.com	11/27/2017	Full Time	EVAP - General Assembly	Jose Ochoa
+Shen	Chen	shen.chen@sfmotors.com	1/9/2017	Full Time	HQ - IT	Xiaobo Li
+Manuel	Castro	manuel.castro@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Jim Brumbaugh
+Xiaoxi	Sun	xiaoxi.sun@sfmotors.com	4/10/2017	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Yu	Zhang	yu.zhang@sfmotors.com	8/1/2018	Full Time	HQ - Finance	Xindong Hu
+Lorilyn	Dill	lorilyn.dill@sfmotors.com	5/21/2018	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Wayne	McKenzie	wayne.mckenzie@sfmotors.com	8/6/2018	Full Time	VE - Vehicle Integration	Denise Orr
+Majid	Sabetzadeh	majid.sabetzadeh@sfmotors.com	1/22/2018	Full Time	EPT - Drivetrain	Andy Cook
+Longxiangyu	Chen	longxiangyu.chen@sfmotors.com	7/16/2018	Full Time	HQ - PMO ( Operations Center )	Ever Li
+Henry	Nguyen	henry.nguyen@sfmotors.com	7/23/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+Sarah	May	sarah.may@sfmotors.com	12/11/2017	Full Time	EVAP - General Assembly	Jose Ochoa
+Evan	Basirat	evan.basirat@sfmotors.com	7/16/2018	Full Time	EPT - Battery System	Mike Letchworth
+Thanh	Duong	thanh.duong@sfmotors.com	7/16/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+Craig	Timms	craig.timms@sfmotors.com	7/16/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Emily	Roux	emily.roux@sfmotors.com	4/30/2018	Full Time	HQ - Human Resources	Tom Zhang
+Brian	Harrell	brian1371597@gmail.com	7/9/2018	Full Time	EVAP - Facility & Maintenance	Rick Evans
+Sudhir	Sawarkar	sudhir.sawarkar@sfmotors.com	8/6/2018	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Justin	Barozie	justin.barozie@sfmotors.com	6/18/2018	Full Time	EPT - Manufacturing Engineering	Duanyang Wang
+Ying	Wang	ying.wang@sfmotors.com	7/23/2018	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Masatsugu	Nakano	masatsugu.nakano@sfmotors.com	8/1/2018	Full Time	Japan - Battery Technology	Ying Liu
+Rafael	Favela	rafael.favela@sfmotors.com	11/20/2017	Full Time	VE - Vehicle Integration	Denise Orr
+Michael	Aittama	michael.aittama@sfmotors.com	7/30/2018	Full Time	VE - Interior Engineering	Rich Hager
+Wenting	Ma	wenting.ma@sfmotors.com	8/6/2018	Full Time	HQ - Supply Chain	Amy Gong
+Parag	Patil	parag.patil@sfmotors.com	7/16/2018	Full Time	VE - Interior Engineering	Rich Hager
+Zijun	Cheng	zijun.cheng@sfmotors.com	8/6/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+Yao Jia	Lin	mark.lin@sfmotors.com	9/5/2016	Full Time	HQ - Finance	Jacqueline Zhang
+Hakuei	Huang	hakuei.huang@sfmotors.com	4/23/2018	Full Time	Intelligent Driving	Jaime Camhi
+Joseph	Tolentino	joseph.tolentino@sfmotors.com	5/7/2018	Full Time	USA - Battery Technology	Brennan Campbell
+Rui	Guo	rui.guo@sfmotors.com	9/25/2017	Full Time	Intelligent Driving	Fan Wang
+David	Teeters	david.teeters@sfmotors.com	11/1/2017	Full Time	EVAP - Plant Operations	Todd Leahy
+Greg	Voss	greg.voss@sfmotors.com	6/25/2018	Full Time	EVAP - Paint	Todd Leahy
+Aditya	Somayaji	aditya.somayaji@sfmotors.com	9/4/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+Nathan	Chung	nathan.chung@sfmotors.com	3/27/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Thomas	Fritz	thomas.fritz@sfmotors.com	4/17/2017	Full Time	HQ - Corporate Executive Leadership ( VE )	Xindong Hu
+Matthew	Harkless	matthew.harkless@sfmotors.com	7/30/2018	Full Time	VE - Chassis Engineering	David Cripps
+Haiyan	Gong	amy.gong@sfmotors.com	6/4/2018	Full Time	HQ - Supply Chain	Tim Fu
+David	Groebl	david.groebl@sfmotors.com	9/18/2017	Full Time	VE - Vehicle Integration	Jinho Jung
+Martin	Burke	martin.burke@sfmotors.com	10/9/2017	Full Time	VE - Interior Engineering	Rich Hager
+Derek	Wong	derek.wong@sfmotors.com	3/26/2018	Full Time	USA - Battery Technology	Ying Liu
+James	Finn	james.finn@sfmotors.com	9/3/2018	Full Time	HQ - Corporate Executive Leadership ( Operations Center )	Xindong Hu
+Andrew	Cook	andrew.cook@sfmotors.com	8/7/2017	Full Time	EPT - Drivetrain	Duanyang Wang
+Nicholas	Mason	nikko.mason@sfmotors.com	9/10/2018	Full Time	EPT - Manufacturing Engineering	Justin Barozie
+John	Collier	john.collier@sfmotors.com	7/23/2018	Full Time	EVAP - Logistics	Rob Turk
+Ashley	Colette	ashley.colette@sfmotors.com	10/8/2018	Full Time	MS - Branding & PR	Jason Wallace
+Jeanie	Whitney	jeanie.whitney@sfmotors.com	8/20/2018	Full Time	EPT - Drivetrain	Bill  Trumbull
+Mariano	Ferraris	mariano.ferraris@sfmotors.com	4/30/2018	Full Time	EPT - Manufacturing Engineering	Justin Barozie
+Boon	Khor	boon.khor@sfmotors.com	10/8/2018	Full Time	EPT - Architecture & Control	Chen-Yen YU
+Chen	Cui	chen.cui@sfmotors.com	8/27/2018	Full Time	Intelligent Driving	Fan Wang
+Jimengmeng	Chen	veronica.chen@sfmotors.com	2/26/2018	Full Time	HQ - Human Resources	Yalan Tan
+Rajeev	Rao	raj.rao@sfmotors.com	9/4/2018	Full Time	HQ - PMO ( R&D Corporate Executive)	Yifan Tang
+Dianna	Le	dianna.le@sfmotors.com	8/28/2017	Full Time	HQ - Human Resources	Yalan Tan
+Eric	Stetz	eric.stetz@sfmotors.com	5/29/2018	Full Time	VE - Vehicle Integration	Yaping Zhu
+Colin	Haag	colin.haag@sfmotors.com	11/20/2017	Full Time	EPT - Power Electronics	Zhong Nie
+Michael	Wood	mike.wood@sfmotors.com	2/19/2018	Full Time	MS - Branding & PR	Jason Wallace
+Kuk Fei	Wan	calvin.wan@sfmotors.com	8/21/2017	Full Time	HQ - Finance	YaoJia Lin
+Jungho	Kim	jungho.kim@sfmotors.com	8/20/2018	Full Time	Japan - Battery Technology	Ying Liu
+Xiaoxi	Lin	xiaoxi.lin@sfmotors.com	9/11/2017	Full Time	Sokon Group - Strategy	Yong Yang
+Yasuo	Nakahara	yasuo.nakahara@sfmotors.com	8/1/2018	Full Time	Japan - Battery Technology	Ying Liu
+Courtney	Stultz	courtney.stultz@sfmotors.com	11/1/2017	Full Time	EVAP - Logistics	Matt Turner
+Michael	Gale	mike.gale@sfmotors.com	5/21/2018	Full Time	EVAP - Logistics	Matt Turner
+Hiroshi	Imoto	sdr86f@gmail.com	8/1/2018	Full Time	Japan - Battery Technology	Ying Liu
+Tong	Wu	tong.wu@sfmotors.com	1/29/2018	Full Time	HQ - PMO ( Operations Center )	Bingbing  Jiang
+Vipul	Guglani	vipul.guglani@sfmotors.com	6/4/2018	Full Time	EPT - Architecture & Control	Min Tian
+Donald	Spicer	don.spicer@sfmotors.com	11/27/2017	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Tong	Wu	ee.tong.wu@sfmotors.com	8/27/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Christel	Hoover	christel.hoover@sfmotors.com	11/1/2017	Full Time	EVAP - Logistics	Matt Turner
+Surabhi	Sharma	surabhi.sharma@sfmotors.com	8/27/2018	Full Time	EPT - Architecture & Control	Min Tian
+Shaun	Vellucci	shaun.vellucci@sfmotors.com	11/1/2017	Full Time	EVAP - Paint	Greg Voss
+Hongqian	Wang	hongqian.wang@sfmotors.com	7/9/2018	Full Time	USA - Battery Technology	Ying Liu
+Alan	Miller	alan.miller@sfmotors.com	11/1/2017	Full Time	EVAP - Quality Engineering	Rob Gutierrez
+Dan	Gordon	dan.gordon@sfmotors.com	11/13/2017	Full Time	EVAP - Facility & Maintenance	Andrew Laytart
+Denise	Orr	denise.orr@sfmotors.com	4/24/2017	Full Time	VE - Vehicle Integration	Jinho Jung
+Sean	Clinton	sean.clinton@sfmotors.com	8/6/2018	Full Time	HQ - PMO ( R&D Corporate Executive)	Yifan Tang
+Haiyan	Gong	amy.gong2@sfmotors.com	6/4/2018	Full Time	HQ - Office Operations	Tim Fu
+James	Brumbaugh	james.brumbaugh@sfmotors.com	11/1/2017	Full Time	EVAP - Facility & Maintenance	Todd Leahy
+Qianyi	Song	qianyi.song@sfmotors.com	9/10/2018	Full Time	EPT - Drivetrain	Jeffrey Leung
+Bryan	Tam	bryan.tam@sfmotors.com	11/1/2017	Full Time	EVAP - Body & Battery	Todd Leahy
+Matthew	Turner	matthew.turner@sfmotors.com	11/1/2017	Full Time	EVAP - Logistics	Todd Leahy
+Jun	Hou	jun.hou@sfmotors.com	1/2/2018	Full Time	EPT - Architecture & Control	Min Tian
+Gwo-Jeng	Lo	gwo-jeng.lo@sfmotors.com	10/15/2018	Full Time	EPT - Power Electronics	Zhong Nie
+Duan	Wang	duan.wang@sfmotors.com	10/15/2018	Full Time	HQ - Office Operations	Joy Ge
+Tan	Truong	tan.truong@sfmotors.com	3/5/2018	Full Time	EPT - Battery System	Mike Letchworth
+Yong	Hu	yong.hu@sfmotors.com	1/2/2018	Full Time	EPT - Drivetrain	James Ma
+Ricardo	Salinas	rick.salinas@sfmotors.com	10/31/2016	Full Time	VE - Design	Alikhan Kuljanov
+Can	Shen	edmund.shen@sfmotors.com	1/29/2016	Full Time	MS - Product Planning	Zak Edson
+Xiaoxi	Fu	tim.fu@sfmotors.com	1/1/2004	Full Time	HQ - Supply Chain	Xindong Hu
+Doug	Ogden	doug.ogden@sfmotors.com	12/8/2016	Full Time	HQ - Supply Chain	Amy Gong
+David	Cripps	david.cripps@sfmotors.com	12/12/2016	Full Time	VE - Chassis Engineering	Xindong Hu
+Yong	Yang	yong.yang@sfmotors.com	4/1/2016	Full Time	Sokon Group - Strategy	John Zhang
+Haochen	Wu	alex.wu@sfmotors.com	5/1/2017	Full Time	HQ - Legal Affairs	Sheri Tang
+David	Baker	david.baker@sfmotors.com	5/22/2017	Full Time	VE - Vehicle Integration	Jinho Jung
+Zhichun	Ma	zhichun.ma@sfmotors.com	6/5/2017	Full Time	EPT - Drivetrain	Duanyang Wang
+Qiang	Zhai	qiang.zhai@sfmotors.com	12/12/2016	Full Time	EPT - Drivetrain	James Ma
+Wenjing	Xu	wenjing.xu@sfmotors.com	3/20/2017	Full Time	EPT - Architecture & Control	Duanyang Wang
+Jana-Mae	Alcover	jana.alcover@sfmotors.com	9/18/2017	Full Time	HQ - PMO ( Operations Center )	Joy Ge
+Mark	Herbert	mark.herbert@sfmotors.com	9/11/2017	Full Time	MS - Product Planning	Edmund Shen
+Ronald	Barrera	ronald.barrera@sfmotors.com	10/16/2017	Full Time	Intelligent Driving	Jaime Camhi
+Brian	Lim	brian.lim@sfmotors.com	1/16/2018	Intern	HQ - IT	Shen Chen
+Hala	Al Khalil	hala.khalil@sfmotors.com	8/13/2018	Intern	EPT - Architecture & Control	Teng Wu
+Wenxin	Fan	wenxin.fan@sfmotors.com	7/16/2018	Intern	HQ - Human Resources	Yalan Tan
+Martin	Burke	marty.burke@sfmotors.com	10/15/2018	Intern	HQ - IT	Shen Chen
+Supradeep	Koganti	supradeep.koganti@sfmotors.com	6/4/2018	Intern	EPT - Architecture & Control	Doug Chidester
+Jalen	Esters	jalen.esters@sfmotors.com	10/15/2018	Intern	HQ - Supply Chain	Michael Lai
+Wu	Zhou	wu.zhou@sfmotors.com	10/8/2018	Intern	VE - Vehicle Integration	Yaping Zhu
+Yu-Hsin	Huang	bryant.huang@sfmotors.com	7/2/2018	Intern	USA - Battery Technology	Ying Liu
+Saifan	Rafiq	saifan.rafiq@sfmotors.com	6/18/2018	Intern	EPT - Architecture & Control	Shawn Yuan
+Edgar	Trujillo	edgar.trujillo@sfmotors.com	12/4/2017	Intern	Intelligent Driving	Jaime Camhi
+Cuiting	Mai	cuiting.mai@sfmotors.com	7/16/2018	Intern	HQ - Human Resources	Yalan Tan
+Zebin	Wang	zebin.wang@sfmotors.com	7/9/2018	Intern	EVAP - Facility & Maintenance	Jim Brumbaugh
+Zhengyu	Hao	zhengyu.hao@sfmotors.com	7/23/2018	Intern	EPT - Architecture & Control	Shawn Yuan
+Jiayang	Cao	jiayang.cao@sfmotors.com	8/6/2018	Intern	EPT - Power Electronics	Zhong Nie
+Marcus	Watson	marcus.watson@sfmotors.com	6/4/2018	Intern	EPT - Manufacturing Engineering	Mariano Ferraris
+Michelle	Kwong	michelle.kwong@sfmotors.com	7/16/2018	Intern	EPT - Drivetrain	Franklin Yang
+Sarah	Spaugh	sarah.spaugh@sfmotors.com	9/24/2018	Intern	EPT - Architecture & Control	Chen-Yen YU
+William	Tadekawa	william.tadekawa@sfmotors.com	8/27/2018	Intern	EPT - Drivetrain	Jeffrey Leung
+Wajhiulla	Smith-Khan	wajhiulla.smith-khan@sfmotors.com	9/24/2018	Intern	Intelligent Driving	Fan Wang
+Reece	Sagun	reece.sagun@sfmotors.com	10/8/2018	Intern	HQ - IT	Shen Chen
+Unmeel	Mokashi	mokashi.unmeel@gmail.com	10/22/2018	Intern	EPT - Architecture & Control	Sudhir Sawarkar
+Meng	Ye	meng.ye@sfmotors.com	4/10/2018	Intern	HQ - Human Resources	Chuck Russo
+Willy	Halim	willy.halim@sfmotors.com	10/8/2018	Intern	USA - Battery Technology	Seungwan Kim
+Le	Nguyen	le.nguyen@sfmotors.com	1/22/2018	Part Time	Intelligent Driving	Avery Jutkowitz
